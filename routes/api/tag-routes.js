@@ -78,7 +78,6 @@ router.put("/:id", (req, res) => {
     });
 });
 
-
 // Delete a tag by its id value
 router.delete("/:id", (req, res) => {
   Tag.destroy({
