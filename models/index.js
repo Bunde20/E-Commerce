@@ -32,3 +32,4 @@ module.exports = {
   Tag,
   ProductTag,
 };
+
