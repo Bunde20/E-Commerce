@@ -20,7 +20,9 @@ Create an application to organize notes that can help the user stay on task for 
 To install this application, download this repository to a local directory and run "npm install" in the terminal to install the required dependencies.
 
 ## Usage:
-![Alt text](Note-Taker-Mockup.png)
+- Follow the link to view a longer video showing the dynamic application functionality:
+  [Untitled_ Oct 2, 2023 9_54 PM.webm](https://github.com/Bunde20/E-Commerce/assets/135177057/e51b4360-01d8-4cf8-9136-ec132b23952b)
+
 
 
 ## License
